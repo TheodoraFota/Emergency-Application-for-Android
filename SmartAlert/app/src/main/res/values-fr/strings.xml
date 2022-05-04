@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alerte intelligente</string>
+    <string name="welcome">BIENVENUE À L\'ALERTE INTELLIGENTE</string>
+    <string name="waiting">En attente d\'événement...</string>
+    <string name="alert">" ALERTE"</string>
+    <string name="abort">" AVORTER"</string>
+    <string name="send_message">Envoyer le message</string>
+    <string name="start">" Démarrer"</string>
+    <string name="TIMER">MINUTEUR</string>
+    <string name="take_a_picture">2. Prenez une photo</string>
+    <string name="ambulanceAndRelatives">Message d\'alerte envoyé à l\'ambulance et aux proches !</string>
+    <string name="AlertCancelled">" Alerte annulée !"</string>
+    <string name="imageUploaded">" Image téléchargée sur Storage"</string>
+    <string name="EverythingsOk">"L'alarme a été annulée. Un message d'annulation d'alarme a été envoyé."</string>
+    <string name="see_your_location" translatable="false">1. Cliquez pour voir votre position</string>
+    <string name="steps">" SUIS LES ÉTAPES"</string>
+    <string name="CancelEverythinsOK">" Annuler l'alerte ! Tout va bien!"</string>
+    <string name="imageDeleted">" Image précédente supprimée de Storage!"</string>
+    <string name="fire_alert">alerte incendie</string>
+    <string name="snow_alert">alerte neige</string>
+    <string name="flood_alert">alerte aux inondations</string>
+    <string name="view_statistics">" Afficher les statistiques"</string>
+    <string name="show_statistics_for">" Afficher les statistiques pour :"</string>
+    <string name="fall_alarm">Alarme de chute</string>
+    <string name="fire_alarm">" Alarme incendie"</string>
+    <string name="snow_alarm">" Alarme neige"</string>
+    <string name="flood_alarm">" Alarme d'inondation"</string>
+    <string name="Fall_alert_called">" Alerte chute activée"</string>
+    <string name="times" translatable="false">" fois"</string>
+    <string name="Fire_alert_called">Alerte incendie activée</string>
+    <string name="Snow_alert_called">" Alerte neige activée"</string>
+    <string name="Flood_alert_called">Alerte inondation activée</string>
+    <string name="sent">" Message d'alerte envoyé"</string>
+    <string name="cancellation_was_successful">L\'annulation a réussi</string>
+</resources>

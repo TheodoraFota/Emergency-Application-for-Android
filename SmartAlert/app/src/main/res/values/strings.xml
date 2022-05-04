@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SmartAlert</string>
+    <string name="welcome"> WELCOME TO SMART ALERT </string>
+    <string name="waiting">Waiting for event…</string>
+    <string name="alert">ALERT</string>
+    <string name="abort">ABORT</string>
+    <string name="start">Start</string>
+    <string name="send_message">Send message</string>
+    <string name="TIMER">TIMER</string>
+    <string name="take_a_picture">2.Take a picture</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="ambulanceAndRelatives">Alert message sent to ambulance and relatives!</string>
+    <string name="AlertCancelled">Alert cancelled!</string>
+    <string name="imageUploaded">Image uploaded to Storage</string>
+    <string name="EverythingsOk">Alert cancelled.Cancellation Sms sent.</string>
+    <string name="see_your_location">1.Click to see your location</string>
+    <string name="steps">FOLLOW THE STEPS BELOW</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="CancelEverythinsOK">Cancel alert! Everything\'s OK!</string>
+    <string name="fire_alert">fire alert</string>
+    <string name="snow_alert">snow alert</string>
+    <string name="flood_alert">flood alert</string>
+    <string name="view_statistics">View statistics</string>
+    <string name="show_statistics_for">Show Statistics for:</string>
+    <string name="fall_alarm">Fall alarm</string>
+    <string name="fire_alarm">Fire alarm</string>
+    <string name="snow_alarm">Snow alarm</string>
+    <string name="flood_alarm">Flood alarm</string>
+    <string name="Fall_alert_called">Fall alert activated</string>
+    <string name="times">times</string>
+    <string name="Fire_alert_called">Fire alert activated</string>
+    <string name="Snow_alert_called">Snow alert activated</string>
+    <string name="Flood_alert_called">Flood alert activated</string>
+    <string name="imageDeleted">Previous image deleted from Storage!</string>
+    <string name="sent">Alert message sent</string>
+    <string name="cancellation_was_successful">Cancellation was successful</string>
+</resources>

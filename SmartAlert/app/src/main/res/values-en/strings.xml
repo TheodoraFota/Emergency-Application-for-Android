@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">SmartAlert</string>
+    <string name="abort">ABORT</string>
+    <string name="start">Start</string>
+    <string name="send_message">Send message</string>
+    <string name="take_a_picture">Take a picture</string>
+    <string name="welcome">WELCOME TO SMART ALERT</string>
+    <string name="waiting">Waiting for event…</string>
+    <string name="alert">ALERT</string>
+    <string name="ambulanceAndRelatives" translatable="false">Alert message sent to ambulance and relatives!</string>
+    <string name="AlertCancelled">Alert cancelled!</string>
+    <string name="imageUploaded">Image uploaded to Storage</string>
+    <string name="EverythingsOk">Alert cancelled.Cancellation Sms sent.</string>
+    <string name="see_your_location" translatable="false">1.Click to see your location</string>
+    <string name="steps" translatable="false">FOLLOW THE STEPS BELOW</string>
+    <string name="CancelEverythinsOK" translatable="false">Cancel alert! Everything\'s OK!</string>
+    <string name="imageDeleted" translatable="false">Previous image deleted from Storage!</string>
+    <string name="fire_alert" translatable="false">fire alert</string>
+    <string name="snow_alert" translatable="false">snow alert</string>
+    <string name="flood_alert" translatable="false">flood alert</string>
+    <string name="view_statistics" translatable="false">View statistics</string>
+    <string name="show_statistics_for">Show Statistics for:</string>
+    <string name="fall_alarm" translatable="false">fall alarm</string>
+    <string name="fire_alarm" translatable="false">Fire alarm</string>
+    <string name="snow_alarm" translatable="false">Snow alarm</string>
+    <string name="flood_alarm" translatable="false">Flood alarm</string>
+    <string name="Fall_alert_called" translatable="false">Fall alert activated</string>
+    <string name="times" translatable="false">times</string>
+    <string name="Fire_alert_called" translatable="false">Fire alert activated</string>
+    <string name="Snow_alert_called" translatable="false">Snow alert activated</string>
+    <string name="Flood_alert_called" translatable="false">Flood alert activated</string>
+    <string name="TIMER">TIMER</string>
+    <string name="sent">Alert message sent</string>
+    <string name="cancellation_was_successful">Cancellation was successful</string>
+</resources>

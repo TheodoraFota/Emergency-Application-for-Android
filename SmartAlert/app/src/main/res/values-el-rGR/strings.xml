@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ΕΞΥΠΝΟΣ ΣΥΝΑΓΕΡΜΟΣ</string>
+    <string name="TIMER">ΧΡΟΝΟΜΕΤΡΟ</string>
+    <string name="start" translatable="false">έναρξη</string>
+    <string name="send_message" translatable="false">Αποστολή</string>
+    <string name="abort">ΑΚΥΡΩΣΗ</string>
+    <string name="take_a_picture">2.Λήψη φωτογραφίας</string>
+    <string name="welcome">ΚΑΛΩΣΗΡΘΑΤΕ ΣΤΟΝ ΕΞΥΠΝΟ ΣΥΝΑΓΕΡΜΟ</string>
+    <string name="waiting">ΑΝΑΜΟΝΗ ΣΥΜΒΑΝΤΟΣ.....</string>
+    <string name="alert">ΣΥΝΑΓΕΡΜΟΣ</string>
+    <string name="ambulanceAndRelatives">Στάλθηκε μήνυμα συναγρμού στο ασθενοφόρο και στους συγγενείς!</string>
+    <string name="AlertCancelled">Ο συναγερμός ακυρώθηκε!</string>
+    <string name="imageUploaded">Η εικόνα αποθηκεύτηκε στο Storage</string>
+    <string name="EverythingsOk">Ο συναγερμός ακυρώθηκε.Στάλθηκε μήνυμα ακύρωσης συναγερμού.</string>
+    <string name="see_your_location">1.Δείτε την τοποθεσία σας</string>
+    <string name="steps">ΑΚΟΛΟΥΘΗΣΤΕ ΤΑ ΠΑΡΑΚΑΤΩ ΒΗΜΑΤΑ</string>
+    <string name="CancelEverythinsOK">Άκυρος ο συναγερμός!Όλα καλά!</string>
+    <string name="imageDeleted">Η προηγούμενη φωτογραφία διαγράφηκε από το Storage</string>
+    <string name="fire_alert">Συναγερμός Φωτιάς</string>
+    <string name="snow_alert">Συναγερμός Χιονιού</string>
+    <string name="flood_alert">Συναγερμός Πλημμύρας</string>
+    <string name="view_statistics">Στατιστικά</string>
+    <string name="show_statistics_for">Δείξε στατιστικά για:</string>
+    <string name="fall_alarm">Συναγερμός Πτώσης</string>
+    <string name="fire_alarm">Συναγερμός Φωτιάς</string>
+    <string name="snow_alarm">Συναγερμός Χιονιού</string>
+    <string name="flood_alarm">Συναγερμός Πλημμύρας</string>
+    <string name="Fall_alert_called">Ο Συναγερμός Πτώσης ενεργοποιήθηκε</string>
+    <string name="times">φορές</string>
+    <string name="Fire_alert_called">Ο Συναγερμός Φωτιάς ενεργοποιήθηκε</string>
+    <string name="Snow_alert_called">Ο Συναγερμός Χιονιού ενεργοποιήθηκε</string>
+    <string name="Flood_alert_called">Ο Συναγερμός Πλημμύρας ενεργοποιήθηκε</string>
+    <string name="sent">Στάλθηκε μήνυμα συναγερμού!</string>
+    <string name="cancellation_was_successful">Η διαδικασία ακυρώθηκε</string>
+</resources>
