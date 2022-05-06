@@ -1,1 +1,1 @@
-# Smart-Alert-Application-For-Android
+Smart Alert!!
